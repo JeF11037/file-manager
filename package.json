@@ -1,0 +1,21 @@
+{
+  "name": "file-manager",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "node index.js --username=Anonymous"
+  },
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JeF11037/file-manager.git"
+  },
+  "author": "JeF11037",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JeF11037/file-manager/issues"
+  },
+  "homepage": "https://github.com/JeF11037/file-manager#readme"
+}
